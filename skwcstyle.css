@@ -1,0 +1,29 @@
+html {
+	font-family: 'Poppins';
+}
+
+.zone {
+	display: inline-flex;
+}
+
+.logo {
+	max-width: 50%;
+}
+
+.bg-primary {
+	background-color: #101133 !important;
+}
+
+.btn-primary {
+	    background-color: #FDBC12;
+    color: #FFFFFF;
+}
+
+.blockquote.blockquote-primary {
+    border-color: #101133;
+    color: #101133;
+}
+
+.blockquote.blockquote-primary small {
+    color: #101133;
+}
